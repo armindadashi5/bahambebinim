@@ -162,6 +162,7 @@ body {
 }
 @media (max-width: 768px) {
   .card img {
+    width: 100%;
     object-fit: contain; 
     max-height: 500px; 
   }
